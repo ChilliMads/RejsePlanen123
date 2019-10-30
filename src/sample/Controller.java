@@ -1,6 +1,5 @@
 package sample;
 
-import com.mysql.cj.xdevapi.Table;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextArea;
